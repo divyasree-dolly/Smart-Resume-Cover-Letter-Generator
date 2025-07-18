@@ -19,7 +19,7 @@ An AI-powered web application that generates tailored cover letters and improves
 
 ## 🚀 Live Demo
 
-**Try it now:** [Your App URL Here](https://your-app-name.streamlit.app)
+**Try it now:** [Resume Enhancement Tool](https://resume-enhancement-tool.streamlit.app/)
 
 *Free tier: 10 requests/day | Unlimited with your own OpenAI API key*
 
