@@ -14,6 +14,14 @@ An AI-powered web application that generates tailored cover letters and improves
 - 📝 **Resume Enhancement**: Improve existing bullet points with AI suggestions
 - 🎨 **User-Friendly Interface**: Clean, intuitive Streamlit web interface
 - 📥 **Download Options**: Save results in multiple formats
+- 🆓 **Free Tier**: 10 requests/day with option to use your own API key
+- 🔒 **Privacy Focused**: No data storage, secure API handling
+
+## 🚀 Live Demo
+
+**Try it now:** [Your App URL Here](https://your-app-name.streamlit.app)
+
+*Free tier: 10 requests/day | Unlimited with your own OpenAI API key*
 
 ## 🚀 Quick Start
 
